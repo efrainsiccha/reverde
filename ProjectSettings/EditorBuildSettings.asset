@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 1e975d66e4fc74361a30e245555f4b3c
+  - enabled: 1
+    path: Assets/Scenes/SelectorNiveles.unity
+    guid: 8a47cf108701fb640b077ff2c7afec08
+  - enabled: 0
+    path: Assets/Scenes/UNSKIPPABLECUTSCENE.unity
+    guid: 33e67d7e4a395405db575d9df38e6c83
+  - enabled: 1
+    path: Assets/Scenes/lvl1cutscene.unity
+    guid: 7a8af5004b32a4213887c7d61e97d118
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: edd814ee95dbeb942885fdb48a50b318
+  - enabled: 1
+    path: Assets/Scenes/lvl1victory.unity
+    guid: eda1a8cd2e25d430983e4f12a0d28aa8
+  - enabled: 1
+    path: Assets/Scenes/lvl2cutscene.unity
+    guid: de0dab7e6c15f41959f8aa5d4bf92919
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 27b6d82872fa243e6aeca35a3d336b6b
+  - enabled: 1
+    path: Assets/Scenes/lvl2victory.unity
+    guid: b69b95151f5bd4166b63287251dabc4e
+  - enabled: 1
+    path: Assets/Scenes/lvl4cutscene.unity
+    guid: 042843e5f5068c74e810e813518d8b02
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 4d4467a1b787bfd4a9bdf83bd33232b2
+  - enabled: 1
+    path: Assets/Scenes/lvl4victory.unity
+    guid: 3e24eaf2fdd06e8408f5b2036b9eeaf7
+  - enabled: 1
+    path: Assets/Scenes/lvl5custscene.unity
+    guid: bd4310cb563e5d446aa0b20fb46e9038
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: bb659524a2ba9bc4592e699b195ac4c0
+  - enabled: 1
+    path: Assets/Scenes/lvl5victory.unity
+    guid: a64e6c2422218cf4eb01d192fe9c733c
+  - enabled: 1
+    path: Assets/Scenes/lvl3cutscene.unity
+    guid: 5015936c855fa4644ad40943f61d8a8e
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 7a4e99eb646014ac6bf517380fed4dfd
+  - enabled: 1
+    path: Assets/Scenes/VICTORYSCENE.unity
+    guid: 5f1552e3028c24c0799baa25127c94a4
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: a498871349d1e3a4f8a82a58a9151c54
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

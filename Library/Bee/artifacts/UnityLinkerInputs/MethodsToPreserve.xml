@@ -1,0 +1,56 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MenuPausa">
+			<method name="Cerrar"/>
+			<method name="Cerrar"/>
+			<method name="Cerrar"/>
+			<method name="Cerrar"/>
+			<method name="Cerrar"/>
+			<method name="Pausa"/>
+			<method name="Pausa"/>
+			<method name="Pausa"/>
+			<method name="Pausa"/>
+			<method name="Pausa"/>
+			<method name="Reanudar"/>
+			<method name="Reanudar"/>
+			<method name="Reanudar"/>
+			<method name="Reanudar"/>
+			<method name="Reanudar"/>
+			<method name="Reiniciar"/>
+			<method name="Reiniciar"/>
+			<method name="Reiniciar"/>
+			<method name="Reiniciar"/>
+			<method name="Reiniciar"/>
+		</type>
+		<type fullname="PlayButton">
+			<method name="OpenOptions"/>
+			<method name="PlayGame"/>
+			<method name="salirBoton"/>
+			<method name="salirBoton"/>
+			<method name="StarMenu"/>
+		</type>
+		<type fullname="PlayerSettings">
+			<method name="SetMusicVolume"/>
+			<method name="SetSFXVolume"/>
+		</type>
+		<type fullname="SelectorNiveles">
+			<method name="buttonVolver"/>
+			<method name="buttonVolver"/>
+			<method name="Level1"/>
+			<method name="Level2"/>
+			<method name="Level3"/>
+			<method name="Level4"/>
+			<method name="Level5"/>
+		</type>
+		<type fullname="TeleType3">
+			<method name="reiniciarNivel1"/>
+			<method name="reiniciarNivel2"/>
+			<method name="reiniciarNivel4"/>
+			<method name="reiniciarNivel5"/>
+			<method name="selectorniveles"/>
+			<method name="selectorniveles"/>
+			<method name="selectorniveles"/>
+			<method name="selectorniveles"/>
+		</type>
+	</assembly>
+</linker>

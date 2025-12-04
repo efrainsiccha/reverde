@@ -1,0 +1,121 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Bullet" preserve="nothing"/>
+		<type fullname="CharacterController2D" preserve="nothing"/>
+		<type fullname="CollisionController" preserve="nothing"/>
+		<type fullname="CompleteRotator" preserve="nothing"/>
+		<type fullname="ControladorDeNiveles" preserve="nothing"/>
+		<type fullname="CrankController" preserve="nothing"/>
+		<type fullname="Enemy" preserve="nothing"/>
+		<type fullname="GameManager" preserve="nothing"/>
+		<type fullname="Healthbar" preserve="nothing"/>
+		<type fullname="Lives" preserve="nothing"/>
+		<type fullname="MenuPausa" preserve="nothing"/>
+		<type fullname="PlayButton" preserve="nothing"/>
+		<type fullname="PlayerMove" preserve="nothing"/>
+		<type fullname="PlayerMovement" preserve="nothing"/>
+		<type fullname="PlayerSettings" preserve="nothing"/>
+		<type fullname="PrefabWeapon" preserve="nothing"/>
+		<type fullname="RayCastWeapon" preserve="nothing"/>
+		<type fullname="SceneChange" preserve="nothing"/>
+		<type fullname="Score" preserve="nothing"/>
+		<type fullname="SelectorNiveles" preserve="nothing"/>
+		<type fullname="SoundLibrary" preserve="nothing"/>
+		<type fullname="TeleType3" preserve="nothing"/>
+		<type fullname="TMPro.Examples.TeleType2" preserve="nothing"/>
+		<type fullname="TMPro.Examples.TeleType4" preserve="nothing"/>
+		<type fullname="TMPro.Examples.TeleType5" preserve="nothing"/>
+		<type fullname="TMPro.Examples.TeleType6" preserve="nothing"/>
+		<type fullname="TMPro.Examples.TeleType7" preserve="nothing"/>
+		<type fullname="TMPro.Examples.TeleType8" preserve="nothing"/>
+		<type fullname="VolumeLoader" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Cinemachine">
+		<type fullname="Cinemachine.CinemachineBrain" preserve="nothing"/>
+		<type fullname="Cinemachine.CinemachineFramingTransposer" preserve="nothing"/>
+		<type fullname="Cinemachine.CinemachinePipeline" preserve="nothing"/>
+		<type fullname="Cinemachine.CinemachineVirtualCamera" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.TextMeshProUGUI" preserve="nothing"/>
+		<type fullname="TMPro.TMP_ColorGradient" preserve="nothing"/>
+		<type fullname="TMPro.TMP_FontAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_Settings" preserve="nothing"/>
+		<type fullname="TMPro.TMP_SpriteAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_StyleSheet" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEditor.Animations.AnimatorController" preserve="nothing"/>
+		<type fullname="UnityEditor.AudioManager" preserve="nothing"/>
+		<type fullname="UnityEditor.InputManager" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoManager" preserve="nothing"/>
+		<type fullname="UnityEditor.MonoScript" preserve="nothing"/>
+		<type fullname="UnityEditor.Physics2DSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.PlayerSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.TagManager" preserve="nothing"/>
+		<type fullname="UnityEditor.TimeManager" preserve="nothing"/>
+		<type fullname="UnityEditor.UnityConnectSettings" preserve="nothing"/>
+		<type fullname="UnityEditor.VFXManager" preserve="nothing"/>
+		<type fullname="UnityEngine.AnimationClip" preserve="nothing"/>
+		<type fullname="UnityEngine.Animator" preserve="nothing"/>
+		<type fullname="UnityEngine.Audio.AudioMixer" preserve="nothing"/>
+		<type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.Audio.AudioMixerSnapshot" preserve="nothing"/>
+		<type fullname="UnityEngine.Audio.AudioResource" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioListener" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioSource" preserve="nothing"/>
+		<type fullname="UnityEngine.Behaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.BoxCollider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Camera" preserve="nothing"/>
+		<type fullname="UnityEngine.Canvas" preserve="nothing"/>
+		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.CircleCollider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Collider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Component" preserve="nothing"/>
+		<type fullname="UnityEngine.CompositeCollider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Cubemap" preserve="nothing"/>
+		<type fullname="UnityEngine.Font" preserve="nothing"/>
+		<type fullname="UnityEngine.GameObject" preserve="nothing"/>
+		<type fullname="UnityEngine.Grid" preserve="nothing"/>
+		<type fullname="UnityEngine.GridLayout" preserve="nothing"/>
+		<type fullname="UnityEngine.LightingSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.LineRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.Material" preserve="nothing"/>
+		<type fullname="UnityEngine.MonoBehaviour" preserve="nothing"/>
+		<type fullname="UnityEngine.Motion" preserve="nothing"/>
+		<type fullname="UnityEngine.Object" preserve="nothing"/>
+		<type fullname="UnityEngine.QualitySettings" preserve="nothing"/>
+		<type fullname="UnityEngine.RectTransform" preserve="nothing"/>
+		<type fullname="UnityEngine.Renderer" preserve="nothing"/>
+		<type fullname="UnityEngine.Rendering.GraphicsSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Rigidbody2D" preserve="nothing"/>
+		<type fullname="UnityEngine.RuntimeAnimatorController" preserve="nothing"/>
+		<type fullname="UnityEngine.Shader" preserve="nothing"/>
+		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
+		<type fullname="UnityEngine.SpriteRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.TextAsset" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Tilemaps.Tilemap" preserve="nothing"/>
+		<type fullname="UnityEngine.Tilemaps.TilemapCollider2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Tilemaps.TilemapRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.Transform" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TilemapModule">
+		<type fullname="UnityEngine.Tilemaps.Tile" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Slider" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>
+	</assembly>
+</linker>
