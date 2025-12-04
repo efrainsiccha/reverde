@@ -1,50 +1,54 @@
-🛡️ Re:Verde
+# 🛡️ Re:Verde
 
-Re:Verde es un videojuego 2D de acción y plataformas, desarrollado para el curso de Videojuegos de la Universidad Privada del Norte.
-Controlas a Ward, un Guardián Ecológico que debe limpiar Trujillo de la contaminación mutante.
+**Re:Verde** es un videojuego 2D de acción y plataformas desarrollado como proyecto académico para el curso de Videojuegos en la **Universidad Privada del Norte**.  
+El jugador controla a **Ward**, un Guardián Ecológico que debe detener la contaminación mutante en Trujillo recolectando residuos y plantando un árbol para purificar cada zona.
 
-🎮 Gameplay
+---
 
-Desplazamiento lateral (Side-Scroller)
+## 🎮 Jugabilidad
 
-Saltar, agacharse y disparar con un cañón purificador
+- Desplazamiento lateral (Side-Scroller)
+- Acciones: **saltar, agacharse y disparar**
+- Recolección obligatoria de **botellas**
+- 4 vidas por nivel — **sin checkpoints** ⚠️
+- Plantar el árbol = nivel completado 🌳
 
-Recolectar botellas para habilitar la plantación del árbol final 🌳
+---
 
-Si pierdes todas tus vidas → Game Over (sin checkpoints)
+## 👾 Enemigos
 
-👾 Enemigos
+| Enemigo | Descripción |
+|--------|-------------|
+| **Trash** | Basura mutada que patrulla plataformas y daña por contacto. |
+| **Trosk** | Residuos densos que bloquean el paso y requieren más disparos. |
 
-Trash: patrulla plataformas, daña por contacto
+---
 
-Trosk: barrera de basura, requiere más disparos
+## 🧱 Niveles
 
-🧱 Niveles
+- Plataformas flotantes, pinchos y abismos
+- Exploración para recolectar el 100% de botellas
+- Escenarios inspirados en **Huanchaco y Trujillo**
 
-Plataformas flotantes, pinchos y abismos
+---
 
-Se necesita 100% de botellas para completar el nivel
+## 🛠️ Tecnologías
 
-Ambientado en zonas reales: Huanchaco y Trujillo
+- **Unity** (C#)
+- Pixel Art
+- Tilemap & Rule Tiles
+- Cinemachine 2D
 
-🛠️ Tecnologías
+---
 
-Unity + C#
+## ▶️ Ejecución
 
-Pixel Art
+1. Clonar o descargar el repositorio  
+2. Abrir el proyecto en **Unity**  
+3. Ejecutar la escena **`MainMenu`**
 
-Tilemap / Rule Tiles
+---
 
-Cinemachine 2D
-
-▶️ Cómo ejecutar
-
-Clona o descarga el repositorio
-
-Abre el proyecto en Unity
-
-Ejecuta la escena MainMenu
-
-👥 Equipo
-
-Grupo 06 — UPN (Proyecto académico)
+## 👥 Equipo
+**Grupo 06 — UPN**  
+Proyecto académico — no comercial
